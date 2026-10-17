@@ -23,11 +23,10 @@ To validate and cross-check the metrics, I also wrote advanced SQL queries to an
 ###  Sample SQL Query (Window Functions / Aggregations)
 ![SQL Query](images/SQL-Query.JPG)
 
->  *This query demonstrates the use of advanced SQL logic to filter and aggregate regional performance dynamics efficiently.*
 ##  Interactive Power BI Dashboard
 
 ###  Dynamic DAX Header in Action
-![Dynamic Header Demo](images/dynamic_header.gif)
+![Dynamic Header Demo](images/Animation2.gif)
 
 ---
 ###  Dashboard Pages (Overview)
@@ -36,6 +35,7 @@ Here is a preview of the main report pages included in the analysis:
 * ![Page 2](images/Dashboard-Executive-Overview.png)
 * ![Page 3](images/Dashboard-Financial-Performance-Analysis.png)
 * ![Page 4](images/Dashboard-ESG&Sustainability-Analysis.png).
+* ![page 5](images/Animation.gif)
 ###  Advanced Features & Data Architecture
 **Custom Tooltips (Interactive Hover Details):**
 * ![ToolTip 1](images/Dashoard-Financial-Tooltip.png)
