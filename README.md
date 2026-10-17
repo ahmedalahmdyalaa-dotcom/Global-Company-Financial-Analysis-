@@ -14,17 +14,24 @@ The raw data came in a flat file, so I used Python to clean it up, handle missin
 
 ![Python Data Cleaning](images/ESG_Data_Cleaning_python.png)
 
-> 💡 *View the full Jupyter Notebook implementation in [`ESG_Data_Cleaning.ipynb`](ESG_Data_Cleaning.ipynb).*
+>  *View the full Jupyter Notebook implementation in [`ESG_Data_Cleaning.ipynb`](ESG_Data_Cleaning.ipynb).*
 
 ---
 
-## 🖥️ Interactive Power BI Dashboard
+##  Interactive Power BI Dashboard
 
-### 🔄 Dynamic DAX Header in Action
+###  Dynamic DAX Header in Action
 ![Dynamic Header Demo](images/dynamic_header.gif)
 
 ---
-
+###  Dashboard Pages (Overview)
+Here is a preview of the main report pages included in the analysis:
+* ![Page 1](images/Dashboard-Home.png)
+* ![Page 2](images/Dashboard-Executive-Overview.png)
+* ![Page Dashboard-Financial-Tooltip.performance-Analysis.png)
+*  ![Page 4](images/Dashboard-Financial-Tooltip.png)
+*  *  ![Page 5](images/Dashboard-Dashboard-ESG & Sustainability-Analysis.png).
+   *  ![Page 6](images/Dashboard-Dashboard-ESG & Sustainability-Analysis-Tooltip.png)
 ##  Key Insights & Business Findings
 
 ### Industry & Sector Trends
