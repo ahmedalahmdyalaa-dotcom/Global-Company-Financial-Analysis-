@@ -12,7 +12,7 @@ Before diving into the Power BI dashboard, I spent time preparing and structurin
 
 The raw data came in a flat file, so I used Python to clean it up, handle missing values, and split it into a structured **Star Schema** with proper Fact and Dimension tables (`dim_company`, `Fact_Table`). This made the dataset much lighter and ready for seamless modeling and DAX calculations in Power BI.
 
-![Python Data Cleaning](images/python_cleaning.png)
+![Python Data Cleaning](images/ESG_Data_Cleaning_python.png)
 
 > 💡 *View the full Jupyter Notebook implementation in [`ESG_Data_Cleaning.ipynb`](ESG_Data_Cleaning.ipynb).*
 
