@@ -35,7 +35,7 @@ Here is a preview of the main report pages included in the analysis:
 * ![ToolTip 1](images/Dashoard-Financial-Tooltip.png)
 * ![ToolTip 2](images/Dashboard-ESG&Sustainability-Analysis-Tooltip.png)
 *  * **Star Schema Data Modeling:**
-  * ![Data Model](images/Dashboard-Data Modeling.png)
+  * ![Data Model](images/Dashboard-Data-Modeling.png)
 ##  Key Insights & Business Findings
 
 ### Industry & Sector Trends
