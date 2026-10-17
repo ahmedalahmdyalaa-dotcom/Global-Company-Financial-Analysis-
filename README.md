@@ -21,7 +21,7 @@ The raw data came in a flat file, so I used Python to clean it up, handle missin
 To validate and cross-check the metrics, I also wrote advanced SQL queries to analyze sector behaviors and trends directly.
 
 ###  Sample SQL Query (Window Functions / Aggregations)
-![SQL Query](images/SQL-Query.jpg)
+![SQL Query](images/SQL-Query.JPG)
 
 >  *This query demonstrates the use of advanced SQL logic to filter and aggregate regional performance dynamics efficiently.*
 ##  Interactive Power BI Dashboard
